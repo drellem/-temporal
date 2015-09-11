@@ -5,4 +5,4 @@
  */
 package script
 
-import temporal.map;
+import temporal.map.*;
